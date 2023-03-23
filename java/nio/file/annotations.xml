@@ -1,0 +1,7 @@
+<root>
+    <item name='java.nio.file.Files java.util.List&lt;java.lang.String&gt; readAllLines(java.nio.file.Path)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;_-&gt;new&quot;"/>
+        </annotation>
+    </item>
+</root>
